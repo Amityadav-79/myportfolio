@@ -122,8 +122,12 @@ export const AboutSection = () => {
                         Master of Science – Computer Science
                       </p>
 
+                     <p className="font-medium">
+                        Patkar Varde College (Empowered Autonomous)
+                      </p>
+
                       <p className="text-sm text-muted-foreground">
-                        2025 – 2027 • CGPA: 8.50
+                        2025 – 2027 • Pursuing..
                       </p>
                     </div>
 
@@ -131,6 +135,11 @@ export const AboutSection = () => {
                       <p className="font-medium">
                         Bachelor of Science – Computer Science
                       </p>
+
+                       <p className="font-medium">
+                        Nagindas Khandwala College (Empowered Autonomous)
+                      </p>
+
 
                       <p className="text-sm text-muted-foreground">
                         2020 – 2023 • CGPA: 9.32
